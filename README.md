@@ -1,6 +1,2 @@
 # Wellness
 New Health Organization 
-
-
-/////////new changes
-//////////////////////////////////////
